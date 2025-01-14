@@ -1,5 +1,5 @@
 <h1 align="center">Hello there! 🌍 How delightful to meet another traveller on these forgotten roads.</h1>
-<h3 align="center">IT Professional | Focused on Automation, Data Analysis, and Observability</h3>
+<h3 align="center">DevOps Engineer | Focused on Automation, Data Analysis, and Observability</h3>
 
 <p align="center">
 With a passion for leveraging technology to create efficient, data-driven solutions, I specialize in telecom, automation, and process optimization. My focus is on building innovative, scalable systems and ensuring continuous visibility through observability.
