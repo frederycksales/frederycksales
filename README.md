@@ -11,21 +11,7 @@
 
 ---
 
-### Core SRE Principles in Practice
-
-My approach to reliability is founded on these core SRE principles:
-
-- **Managing Reliability:** Defining and managing SLIs, SLOs, SLAs, and Error Budgets to make data-driven decisions.
-- **Systematic Observability:** Analyzing the "Golden Signals" (Latency, Traffic, Errors, Saturation), logs, and traces to understand system health.
-- **Eliminating Toil:** Automating manual, repetitive tasks using IaC, playbooks, and custom scripts (Python/Go).
-- **Effective Incident Management:** Coordinating incident response and conducting Blameless Post-mortems to drive continuous improvement.
-- **Resilient Deployments:** Implementing progressive delivery strategies like Canary Releases and Blue-Green Deployments.
-
----
-
-### 🛠️ Core Tools & Technologies
-
-This is the stack I use to build and maintain reliable systems:
+<div align="center">
 
 <table>
   <tr>
@@ -67,6 +53,33 @@ This is the stack I use to build and maintain reliable systems:
   </tr>
 </table>
 
+<br>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=frederycksales&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=frederycksales&layout=compact&theme=github_dark&hide_border=true" height="150" alt="languages graph"  />
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/frederycksales/frederycksales/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/frederycksales/frederycksales/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/frederycksales/frederycksales/output/pacman-contribution-graph.svg">
+</picture>
+
+</div>
+
+---
+
+### Core SRE Principles in Practice
+
+My approach to reliability is founded on these core SRE principles:
+
+- **Managing Reliability:** Defining and managing SLIs, SLOs, SLAs, and Error Budgets to make data-driven decisions.
+- **Systematic Observability:** Analyzing the "Golden Signals" (Latency, Traffic, Errors, Saturation), logs, and traces to understand system health.
+- **Eliminating Toil:** Automating manual, repetitive tasks using IaC, playbooks, and custom scripts (Python/Go).
+- **Effective Incident Management:** Coordinating incident response and conducting Blameless Post-mortems to drive continuous improvement.
+- **Resilient Deployments:** Implementing progressive delivery strategies like Canary Releases and Blue-Green Deployments.
+
 ---
 
 ### 🚀 Home Lab & Personal Projects
@@ -75,28 +88,8 @@ Beyond my professional work, I run a dedicated home lab where I experiment with 
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frederycksales&layout=compact&theme=dracula&hide_border=true" />
-  </a>
-</p>
-
----
-
-### 🔗 Connect with me
-
 <p align="center">
   <a href="https://linkedin.com/in/frederyck-baleeiro-espinheiro-sales-4836b4125" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/frederycksales/frederycksales/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/frederycksales/frederycksales/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/frederycksales/frederycksales/output/pacman-contribution-graph.svg">
-</picture>
