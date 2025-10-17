@@ -5,45 +5,51 @@
 
 <p align="center">
   With 7 years in technology and 2 years focused on Site Reliability Engineering, my mission is to translate infrastructure complexity into business reliability. I specialize in architecting resilient, high-performance distributed systems, drawing on a broad background from technical support to operations leadership.
-  <br />
-  At Sea Telecom, I led an SRE modernization initiative that <strong>reduced critical incidents from 4 to 1 annually</strong> and cut alert noise by over 80% by implementing an SLO-driven monitoring culture.
 </p>
 
 ---
 
 <div align="center">
 
-<div align="left">
-  <h4>Cloud & Orchestration</h4>
-  <p>
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a>
-    <a href="https://www.openstack.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openstack/openstack-original-wordmark.svg" alt="OpenStack" width="40" height="40"/></a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
-    <a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="40" height="40"/></a>
-  </p>
-  <h4>IaC & Automation</h4>
-  <p>
-    <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg" alt="Terraform" width="40" height="40"/></a>
-    <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original-wordmark.svg" alt="Ansible" width="40" height="40"/></a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-    <a href="https://golang.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="Go" width="40" height="40"/></a>
-    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/></a>
-  </p>
-  <h4>CI/CD & Versioning</h4>
-  <p>
-    <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/></a>
-    <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="40" height="40"/></a>
-    <a href="https://about.gitea.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitea/gitea-original.svg" alt="Gitea" width="40" height="40"/></a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
-  </p>
-  <h4>SRE & Observability</h4>
-  <p>
-    <a href="https://prometheus.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original-wordmark.svg" alt="Prometheus" width="40" height="40"/></a>
-    <a href="https://grafana.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="Grafana" width="40" height="40"/></a>
-    <a href="https://www.zabbix.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg" alt="Zabbix" width="40" height="40"/></a>
-    <a href="https://www.elastic.co/elasticsearch/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original-wordmark.svg" alt="Elasticsearch" width="40" height="40"/></a>
-  </p>
-</div>
+<table>
+  <tr>
+    <td align="center"><strong>Cloud & Orchestration</strong></td>
+    <td>
+      <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a>
+      <a href="https://www.openstack.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openstack/openstack-original-wordmark.svg" alt="OpenStack" width="40" height="40"/></a>
+      <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
+      <a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="40" height="40"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>IaC & Automation</strong></td>
+    <td>
+      <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg" alt="Terraform" width="40" height="40"/></a>
+      <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original-wordmark.svg" alt="Ansible" width="40" height="40"/></a>
+      <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
+      <a href="https://golang.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="Go" width="40" height="40"/></a>
+      <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>CI/CD & Versioning</strong></td>
+    <td>
+      <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/></a>
+      <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="40" height="40"/></a>
+      <a href="https://about.gitea.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitea/gitea-original.svg" alt="Gitea" width="40" height="40"/></a>
+      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>SRE & Observability</strong></td>
+    <td>
+      <a href="https://prometheus.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original-wordmark.svg" alt="Prometheus" width="40" height="40"/></a>
+      <a href="https://grafana.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="Grafana" width="40" height="40"/></a>
+      <a href="https://www.zabbix.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg" alt="Zabbix" width="40" height="40"/></a>
+      <a href="https://www.elastic.co/elasticsearch/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original-wordmark.svg" alt="Elasticsearch" width="40" height="40"/></a>
+    </td>
+  </tr>
+</table>
 
 <br>
 
