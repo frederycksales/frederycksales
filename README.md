@@ -63,11 +63,6 @@
 
 <br>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=frederycksales&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=frederycksales&layout=compact&theme=github_dark&hide_border=true" height="150" alt="languages graph"  />
-
-<br>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/frederycksales/frederycksales/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/frederycksales/frederycksales/output/pacman-contribution-graph.svg">
